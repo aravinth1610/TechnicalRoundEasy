@@ -1,0 +1,125 @@
+a1b10  ->op:a1bbbbbbbbbb
+
+ABC    ->op:ABC ACB BCA BAC CAB CBA....
+
+ABC    ->op:a, b, c, ab, bc, ac, abc...
+
+ABC     ->op:a, b, c, ab, bc, ac, abc
+
+"ara","ravi","ara","ram","ram","ram"  ->op:ara 2  ram 3  5
+
+Maximumi of mimnimum   ->op:find Duplicate  i m u
+
+{1, 6, 4, 3, 7,5, 2}   ->op: {7, 1, 6, 2, 5, 3, 4} 
+
+-2, -3, 4, -1, -2, 2, 5, -3  ->op:Kadane 8               //////////////
+
+18,12,13,4,20,11,3  ->op:smallest&Largest 20 3
+
+60,1,20,65,40,11,4,6,0,50,70,75  ->op:SecondThirdsmallestLargest
+
+bananas  ->longestPali Op: anana
+
+10       ->fibnone   Op:123581321345589
+
+92,93,94 ->fiboneArrays Op: 97 98 99 195 293 488 781 1269 2050 
+
+212      ->Palidrome    Op:palidrome
+
+153      ->Amstrong
+
+12345 Op->
+1    5  
+ 2  4   
+  3    
+ 2  4   
+1    5 
+
+Op->
+             //   *
+		    //   * *
+		    //  *   *
+			// *     *
+			//*********
+			// *     *
+			//  *   *
+			//   * *
+			//    *
+
+Op->
+/*
+		 *       1 
+		        2 3 
+		       4 5 6 
+		      7 8 9 10 
+		   11 12 13 14 15 
+		 */
+		 
+10   ->Op:primeNumber nth..
+
+Hi man how are you Op->   iH nam woh era uoy
+
+1,4,2,5,11,15,12   Op->  1 2 4 15 12 11
+
+                   /*
+String n1="ABC"; 	  * The subsequence of m = A,B,C, AB, BC, AC, ABC  and n=A,B,AB
+String n2="AB";
+	                    The count of common subsequences is 3 that is (A,B AB)
+		       */
+		       
+0,4,3,0,8,0,0,9,0     Op-> 0 0 0 0 4 3 8 
+
+Malayalam is my mother tongue Op-> is my mother tongue
+
+Op->      /*
+		 * c
+		 *co
+		 com
+		come
+	   comew
+	  comewe
+	 comewel 
+		 */		       
+  
+String p="bxyzca";
+String str="abcabcabc";  Op->  bbbcccaaa
+
+CsharpstarZ   Removing Duplicates Op->  CsharptZ
+
+9,4,20,18,11,8,100   Op-> 9 18 11 8 20 4 100
+
+String name="testing123"
+String num="123"         op-> 4
+
+{2,4,5,6,7,9,10,13}
+{2,3,4,5,6,7,8,9,11,15}   op-> 2 3 4 5 6 7 8 9 10 11 13 15
+
+aBAcAba   op->  #b#c#B
+
+a1b2c3d4e5f6g7        op-> abcdefg1234567
+
+geeks    op->   geeks
+                eeksg
+                eksge
+                ksgee
+                sgeek
+                
+wzwaz     op-> 4
+
+I Love India  op-> India Love I
+
+1674         op-> 4761
+
+op-> 
+    1
+   121
+  12321
+ 1234321                   
+
+4 2 1 5 3  op-> 21435
+
+3 5 7 8 4 2 1 9 6  op-> 345782196
+
+3 5 7 8 4 2 1 9 6  op-> 875332196
+		 			
+4 2 1 5 3           op-> 21534			

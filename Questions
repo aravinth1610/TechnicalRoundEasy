@@ -1,0 +1,87 @@
+a1b10  op-> aabbbbbbbbbb
+ABC    op-> ABC ACB BCA BAC CAB CBA .......
+ABC    op-> a, b, c, ab, bc, ac, abc........
+3, 4, 5, 6, 7, 1, 2 op-> 5671234
+"ram","ravi","ram","rara","ram" op without Duplicate-> ram,ravi,rara
+cout the duplicate and print the names
+Maximumi of mimnimum  op->imu  3
+1, 6, 9, 4, 3, 7, 8, 2   op-> 7, 1, 6, 2, 5, 3, 4
+-2, -3, 4, -1, -2, 2, 5, -6  op-> 8
+1,20,40,11,4,6,50,70    op-> 1 70
+60,1,20,65,40,11,4,6,0,50,70,75   op->second larg,3th larg ,4th larg
+bananas   op-> anana
+1,4,2,7,10   op-> odd first and even second
+fibnoneSeries
+fibnoneArray
+palindrome
+AmstromgNum
+12345  op->
+1    5  
+ 2  4   
+  3    
+ 2  4   
+1    5  
+
+abcd op->
+
+            //a
+			//a b
+		    //a b c
+		    //a b c d
+		    //a  b c
+			//a b
+			//a
+			
+abcd  op->
+       // a
+	   //a b 
+      //a b c
+      //a b c d
+      //a  b c
+ 	    //a b
+	     //a
+	     
+	     
+	          //  *
+		    //   * *
+		    //  *   *
+			// *     *
+			//*********
+			// *     *
+			//  *   *
+			//   * *
+			//    *    			
+			
+			/*
+ *       1 
+        2 3 
+       4 5 6 
+      7 8 9 10 
+   11 12 13 14 15 
+ */
+ 
+ 11,5,4,7,6,12,15  prime number
+ 
+ 1 to n prime number
+ 
+ ramragul jgjh op-> hjgj lugarma
+ 
+ ramragul gopal  op-> lugarmar lapog
+ 
+ sortArrayString
+ 
+ sortString
+ 
+ sortFirstASCSecondDES
+ 
+String n1="ABC";  op- >
+string n2="AB";   op- > BA A B     count=3
+
+4,5,6,7,9      op->  9 9 9 9 -1
+
+0,4,3,0,8,0,0,9,0  op-> 0 0 0 0 4 3 8 
+
+volwelsIArray
+
+
+ 
